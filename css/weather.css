@@ -109,3 +109,7 @@ main {
 .size {
     font-size: 25px;
 }
+
+.search-box {
+    background-color: #FFF;
+}
